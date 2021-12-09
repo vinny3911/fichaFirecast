@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<form formType="sheetTemplate" dataType="pluginGenerico" 
+     title="RPGEN" name="frmRPGEN">
+     
+     <style>
+          .infosMain {
+               top: 10;
+               height: 30;
+               width: 300;
+          }
+     </style>
+
+
+     <layout class="infosMain">
+          <label text="Nome:" align="client" horzTextAlign="trailing"/>  
+          <edit align="right" margins="{left=10}" width="240"/>
+     </layout>
+</form>
