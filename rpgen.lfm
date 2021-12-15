@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<form formType="sheetTemplate" dataType="pluginGenerico" title="RPGEN" name="frmRPGEN">
+    <import file="style.xml"/>
+
+    <tabControl align="client">
+	    
+      <tab title="Frente">
+	  	  <import file="frente.xml"/>
+		  </tab>
+
+      <tab title="Características">
+        <import file="caracteristicas.xml"/>
+      </tab>
+		
+    </tabControl>
+
+</form>

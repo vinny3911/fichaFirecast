@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<style>
+    .nomePersonagem{
+        top: 80;
+        height: 30;
+        width: 310;
+    }
+
+    .infosPersonagem{
+        top: 30;
+        left: 350;
+        height: 200;
+        width: 300;
+    }
+
+    rectangle.fundo{
+        align: client;
+        color: #404040;
+    }
+</style>

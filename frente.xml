@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rectangle class="fundo">
+     
+     <layout class="nomePersonagem">
+          <label text="Nome:" align="client" horzTextAlign="trailing"/>  
+          <edit align="right" margins="{left=10}" width="250"/>
+     </layout>
+
+     <layout class="infosPersonagem">
+          <label text="Classe_Nivel"/>
+          <edit/>
+
+          <label text="Antecedentes"/>
+          <edit/>
+
+          <label text="Jogador"/>
+          <edit/>
+
+          <label text="Raça"/>
+          <edit/>
+
+          <label text="Tendencia"/>
+          <edit/>
+
+          <label text="Experiencia"/>
+          <edit/>
+     </layout>
+
+</rectangle>
